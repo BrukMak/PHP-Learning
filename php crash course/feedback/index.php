@@ -43,9 +43,9 @@ if (isset($_POST['submit'])){
 
 
  ?>
-    <img src="img/logo.png" class="w-25 mb-3" alt="">
+    <img src="img/20943639.jpg" class="w-25 mb-3" alt="">
     <h2>Feedback</h2>
-    <p class="lead text-center">Leave feedback for Traversy Media</p>
+    <p class="lead text-center">Leave feedback for BMAs</p>
     <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="POST" class="mt-4 w-75">
       <div class="mb-3">
         <label for="name" class="form-label">Name</label>
